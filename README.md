@@ -15,6 +15,7 @@ utiliza el libro de [J. D. Jackson](https://en.wikipedia.org/wiki/Classical_Elec
 
 **Notas:** 
 
+* Con el propósito de mantener una notación uniforme, los problemas serán asignados de acuerdo a la notación de la segunda edición del texto ("el Jackson vino tinto")
 * Para abrir los enlaces en un tabulador alterno, utilice: "Ctrl"+click (lamentablemente, GitHub aún carece de una herramienta natural para lograr esto)
 * Este curso/repositorio está en constucción permanente, regrese de vez en cuando a ver que cambios encuentra.
 
@@ -39,7 +40,7 @@ utiliza el libro de [J. D. Jackson](https://en.wikipedia.org/wiki/Classical_Elec
 
 ## Tareas
 
-[Semana 1. Tarea 0].  Repaso de oscilaciones armónicas.
+[Semana 1. Tarea 0]. Problemas 1-1 a 1.5 del texto
 
 
 
