@@ -4,7 +4,7 @@
 
 ## Descripción
 
-Este curso de nivel introductorio, presenta algunos contenidos tanto de la física ondulatoria y ''óptica geométrica'', como de algunos métodos matemáticos de interés para tales temas.
+Este curso ----
 
 ### Algunos temas del Curso
 
@@ -22,11 +22,11 @@ Este curso de nivel introductorio, presenta algunos contenidos tanto de la físi
 
 ## Bibliografía para el curso
 
-1. A. P. French. **Vibraciones y Ondas**. Editorial Reverté. 
-2. F. S., Jr. Crawford. **Ondas**. Volumen III del Curso de Física de la Universidad de Berkeley. Editorial Reverté.
+1. J. D. Jackson. **Classical Electrodynamis**. Wiley. 
+2. Panonfsky Phillips. **Ondas**. Volumen III del Curso de Física de la Universidad de Berkeley. Editorial Reverté.
 3. M. Alonso, E. J. Finn. **Física, Vol II. Campos y Odas**. Fondo Educativo Latinoamericano, 1970.
 
-## Bibliografía Avanzada
+## Bibliografía Auxiliar
 
 1. B. A. Auld, *Acoustic fields and waves in solids*, A Wiley-Interscience publication, 1973. isbn 9785885013437
 2. M. Born & E. Wolf, *Principles of Optics*, Cambridge University Press, 1999. isbn 9780521642224
