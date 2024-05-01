@@ -1,3 +1,18 @@
+<p align="center">
+  <img src="PICS/Python-logo.png" width="300" title="hover text">
+  <img src="PICS/python-que-es.jpg" width="445" title="hover text">
+</p>
+
+<p align="center">
+  <H1> Python, una introducción </H1>
+</p>
+
+
+**Notas:** 
+
+* Para abrir los enlaces en un tabulador alterno, utilice: "Ctrl"+click (lamentablemente, GitHub aún carece de una herramienta natural para lograr esto)
+* Este curso/repositorio está en constucción permanente, regrese de vez en cuando a ver que cambios encuentra.
+
 # Electrodinamica_Clasica
 
 ## Descripción
