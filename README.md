@@ -2,15 +2,16 @@
 
 ## Descripción
 
-Este curso, de dos partes (dos trimestres) estudia los principio básicos de la teoría electromagnética. Como sucede enmuchas partes, el curso
-utiliza el libro de [J. D. Jackson](https://en.wikipedia.org/wiki/Classical_Electrodynamics_(book)) como texto principal. 
+Este curso, de dos partes (dos trimestres) estudia los principio básicos de la teoría electromagnética. Como ocurre en muchas partes, el curso
+utiliza el libro de [J. D. Jackson](https://en.wikipedia.org/wiki/Classical_Electrodynamics_(book)) como texto principallo cual obedece a un interés en , no solo la teoría electromagnética, sino en una necesidad de asegurar que todos los estudiantes graduados que comienzan eestudios, complementen sus conocimientos de base de los métodos clásicos de lafísica matemática. 
 
 ## Bibliografía para el curso
 
 1. J. D. Jackson. **Classical Electrodynamis**. Wiley. 
-2. L. D. LANDAU, E. M. LIFSHITZ.**ELECTRODYNAMICS OF CONTINUOUS MEDIA**. PERGAMON PRESS, 1984 
-3. W. .H. Panonfsky, M. Phillips. **Classical Electricity and Magnetism**. Volumen III del Curso de Física de la Universidad de Berkeley. Editorial Reverté.
-4. M. Alonso, E. J. Finn. **Física, Vol II. Campos y Odas**. Fondo Educativo Latinoamericano, 1970.
+2. L. D. LANDAU, E. M. LIFSHITZ.**ELECTRODYNAMICS OF CONTINUOUS MEDIA**. PERGAMON PRESS, 1984
+3. Julian Schwinger, Lester L. Deraad Jr., Kimball Milton, Wu-Yang Tsai. **Classical Electrodynamics**, 1999
+4. W. .H. Panonfsky, M. Phillips. **Classical Electricity and Magnetism**. 
+5. Julius Adams Stratton. **Electromagnetic Theory**. 
 
 ## Bibliografía Auxiliar
 
@@ -25,7 +26,7 @@ utiliza el libro de [J. D. Jackson](https://en.wikipedia.org/wiki/Classical_Elec
 
 ## Tareas
 
-[Semana 1. Tarea 0](tareas/Ondas_y_Optica_Tarea_0.pdf).  Repaso de oscilaciones armónicas.
+[Semana 1. Tarea 0].  Repaso de oscilaciones armónicas.
 
 
 
