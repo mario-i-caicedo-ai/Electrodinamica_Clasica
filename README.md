@@ -1,10 +1,9 @@
 # Electrodinamica_Clasica
 
-# Ondas y Óptica
-
 ## Descripción
 
-Este curso ----
+Este curso, de dos partes (dos trimestres) estudia los principio básicos de la teoría electromagnética. Como sucede enmuchas partes, el curso
+utiliza el libro [xx](https://en.wikipedia.org/wiki/Classical_Electrodynamics_(book))----
 
 ### Algunos temas del Curso
 
