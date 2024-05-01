@@ -3,7 +3,7 @@
 ## Descripción
 
 Este curso, de dos partes (dos trimestres) estudia los principio básicos de la teoría electromagnética. Como sucede enmuchas partes, el curso
-utiliza el libro [xx](https://en.wikipedia.org/wiki/Classical_Electrodynamics_(book))----
+utiliza el libro de [J. D. Jackson](https://en.wikipedia.org/wiki/Classical_Electrodynamics_(book)) como texxto principal.
 
 ### Algunos temas del Curso
 
