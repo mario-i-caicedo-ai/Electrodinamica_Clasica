@@ -1,6 +1,6 @@
 <p align="center">
   <img src="pics/Db_James_Clerk_Maxwell_in_his_40s_-2-7.jpg" width="445" title="hover text">
-  <img src="pics/Michael_Faraday_sitting_crop.jpg" width="445" title="hover text">
+  <img src="pics/Michael_Faraday_sitting_crop.jpg" width="440" title="hover text">
 </p>
 
 <p align="center">
