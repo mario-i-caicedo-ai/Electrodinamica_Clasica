@@ -38,9 +38,11 @@ utiliza el libro de [J. D. Jackson](https://en.wikipedia.org/wiki/Classical_Elec
 
 ## Material de Estudio (Apuntes, clases y videos)
 
-[Ecuaciones Diferenciales. Sistemas dinámicos, un repaso breve](https://github.com/mario-i-caicedo-ai/Introduccion-a-las-Ecuaciones-Diferenciales-Ordinarias/)
+[Ecuaciones Diferenciales. Notas escritas por mi, hay errores, le agradezco me los señale para arregñlarlos en ediciones posteriores](https://github.com/mario-i-caicedo-ai/Introduccion-a-las-Ecuaciones-Diferenciales-Ordinarias/)
 
-[Repaso de Series Fourier](https://github.com/mario-i-caicedo-ai/Series-de-Fourier)
+[Ecuaciones Diferenciales. Sistemas dinámicos, un repaso breve (cuaderno JUPYTER)](https://github.com/mario-i-caicedo-ai/Introduccion-a-las-Ecuaciones-Diferenciales-Ordinarias/)
+
+[Repaso de Series Fourier (cuaderno JUPYTER)](https://github.com/mario-i-caicedo-ai/Series-de-Fourier)
 
 [Semanas 1 y 2] Introducción a la Electrostática. Capítulo I del Texto del Curso.
 
