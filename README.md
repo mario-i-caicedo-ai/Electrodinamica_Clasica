@@ -38,7 +38,7 @@ utiliza el libro de [J. D. Jackson](https://en.wikipedia.org/wiki/Classical_Elec
 
 ## Material de Estudio (Apuntes, clases y videos)
 
-[Ecuaciones Diferenciales. Notas escritas por mi, hay errores, le agradezco me los señale para arregñlarlos en ediciones posteriores](https://github.com/mario-i-caicedo-ai/Introduccion-a-las-Ecuaciones-Diferenciales-Ordinarias/)
+[Ecuaciones Diferenciales. Notas escritas por mi, hay errores, le agradezco me los señale para arreglarlos en ediciones posteriores](Apuntes/Notas_Acerca_de_Ecuaciones_Diferenciales.pdf)
 
 [Ecuaciones Diferenciales. Sistemas dinámicos, un repaso breve (cuaderno JUPYTER)](https://github.com/mario-i-caicedo-ai/Introduccion-a-las-Ecuaciones-Diferenciales-Ordinarias/)
 
