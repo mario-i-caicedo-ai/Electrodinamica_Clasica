@@ -26,7 +26,7 @@ utiliza el libro de [J. D. Jackson](https://en.wikipedia.org/wiki/Classical_Elec
 3. Julian Schwinger, Lester L. Deraad Jr., Kimball Milton, Wu-Yang Tsai. **Classical Electrodynamics**, 1999
 4. W. .H. Panonfsky, M. Phillips. **Classical Electricity and Magnetism**. 
 5. Julius Adams Stratton. **Electromagnetic Theory**.
-6. Emile Durand, [https://archive.org/details/electrostatique0000dura_u0w3](Electrostatique) 
+6. Emile Durand, (Electrostatique)(https://archive.org/details/electrostatique0000dura_u0w3) 
 
 ## Bibliografía Auxiliar
 
