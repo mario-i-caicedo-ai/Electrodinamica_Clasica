@@ -29,20 +29,27 @@ utiliza el libro de [J. D. Jackson](https://en.wikipedia.org/wiki/Classical_Elec
 
 ## Bibliografía Auxiliar
 
-1. H. W. Wyld, **MATHEMATICAL METHODS FOR PHYSICS**, PERSEUS BOOKS, 1999. ISBN 0-7382-0125-1
-2. George B. Arfken, Hans J. Weber. **MATHEMATICALMETHODS FOR PHYSICISTS** (sixth edition). Elsevier, 2005. ISBN: 0-12-059876-0
-3. Philip M. Morse, Herman Feshbach. **METHODS OF THEORETICAL PHYSICS**. McGRAW-HILL BOOK COMPANY, 1953{
-4. R. Courant, D. Hilbert, **Methods of Mathematical Physics**. Wiley Classics Edition
+1. H. W. Wyld, **Mathematical Methods for Physics**, PERSEUS BOOKS, 1999. ISBN 0-7382-0125-1
+2. George B. Arfken, Hans J. Weber. **Mathematical Methods for Physicists** (sixth edition). Elsevier, 2005. ISBN: 0-12-059876-0
+3. Hans F. Weinberger. **A First Course in Partial Differential Equations with Complex Variables and Transform Methods**
+4. Ivar Stakgold, Michael Holst. **Green's Functions and Boundary Value Problems**
+5. Philip M. Morse, Herman Feshbach. **Methods of Theoretical Physics**. McGRAW-HILL BOOK COMPANY, 1953{
+6. R. Courant, D. Hilbert, **Methods of Mathematical Physics**. Wiley Classics Edition
 
 ## Material de Estudio (Apuntes, clases y videos)
 
 [Repaso de Series Fourier](https://github.com/mario-i-caicedo-ai/Series-de-Fourier)
 
+[Semanas 1 y 2] Introducción a la Electrostática. Capítulo I del Texto del Curso.
+
 ## Tareas
 
-[Semana 1. Tarea 0]. Problemas 1-1 a 1.5 del texto
-[Semana 2. Tarea 1]
+**Observación: Trate de dar una interpretación física transparente a cada problema que resuelva**
 
+[Semana 1. Tarea 0]. Problemas 1-1 a 1.5 del texto
+[Semana 2. Tarea 1]. Problemas 1.6 a 1.13 del texto. Para el problema 12 limítese al caso discreto. Adicionalmente, demuestre lo siguienteÑ Una partícula cargada no puede permanecer en equilibrio estable únicamente bajo la acción de un campo eléctrico. Esto es equivalente al siguiente teorema:
+**Maximum principle** Let $f$ be a harmonmic functionm (a solution of the Laplace eqn), if K is a nonempty compact subset of U, then f restricted to K attains its maximum and minimum on the boundary of K. If U is connected, this means that f cannot have local maxima or minima, other than the exceptional case where f is constant.
+[Semana 3. Tarea 2] Completar los Problemas del Capítulo I del texto.
 
 
 
