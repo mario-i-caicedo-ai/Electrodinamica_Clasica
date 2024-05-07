@@ -47,6 +47,7 @@ utiliza el libro de [J. D. Jackson](https://en.wikipedia.org/wiki/Classical_Elec
 **Observación: Trate de dar una interpretación física transparente a cada problema que resuelva**
 
 [Semana 1. Tarea 0]. Problemas 1-1 a 1.5 del texto
+
 [Semana 2. Tarea 1]. Problemas 1.6 a 1.13 del texto. Para el problema 12 limítese al caso discreto. Adicionalmente, demuestre lo siguienteÑ Una partícula cargada no puede permanecer en equilibrio estable únicamente bajo la acción de un campo eléctrico. Esto es equivalente al siguiente teorema:
 **Maximum principle** Let $f$ be a harmonmic functionm (a solution of the Laplace eqn), if K is a nonempty compact subset of U, then f restricted to K attains its maximum and minimum on the boundary of K. If U is connected, this means that f cannot have local maxima or minima, other than the exceptional case where f is constant.
 [Semana 3. Tarea 2] Completar los Problemas del Capítulo I del texto.
