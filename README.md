@@ -25,7 +25,8 @@ utiliza el libro de [J. D. Jackson](https://en.wikipedia.org/wiki/Classical_Elec
 2. L. D. LANDAU, E. M. LIFSHITZ.**ELECTRODYNAMICS OF CONTINUOUS MEDIA**. PERGAMON PRESS, 1984
 3. Julian Schwinger, Lester L. Deraad Jr., Kimball Milton, Wu-Yang Tsai. **Classical Electrodynamics**, 1999
 4. W. .H. Panonfsky, M. Phillips. **Classical Electricity and Magnetism**. 
-5. Julius Adams Stratton. **Electromagnetic Theory**. 
+5. Julius Adams Stratton. **Electromagnetic Theory**.
+6. Emile Durand, [https://archive.org/details/electrostatique0000dura_u0w3](**Electrostatique**) 
 
 ## Bibliografía Auxiliar
 
