@@ -42,6 +42,7 @@ utiliza el libro de [J. D. Jackson](https://en.wikipedia.org/wiki/Classical_Elec
 ## Tareas
 
 [Semana 1. Tarea 0]. Problemas 1-1 a 1.5 del texto
+[Semana 2. Tarea 1]
 
 
 
