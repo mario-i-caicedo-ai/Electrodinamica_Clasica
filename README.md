@@ -48,7 +48,11 @@ utiliza el libro de [J. D. Jackson](https://en.wikipedia.org/wiki/Classical_Elec
 
 ## Tareas
 
-**Observación: Trate de dar una interpretación física transparente a cada problema que resuelva**
+**Observaciones: 
+
+* Las tareas deben entregarse hasta los viernes de la semana en que se propone la tara.
+* Trate de presentar su tarea en latex, preferiblemente en la aplicación [Overleaf](https://www.overleaf.com/) y la comparte comigo con permiso de edición
+* Trate de dar una interpretación física transparente a cada problema que resuelva**
 
 [Semana 1. Tarea 0]. Problemas 1-1 a 1.5 del texto
 
