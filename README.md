@@ -38,6 +38,8 @@ utiliza el libro de [J. D. Jackson](https://en.wikipedia.org/wiki/Classical_Elec
 
 ## Material de Estudio (Apuntes, clases y videos)
 
+[Repaso de Series Fourier](https://github.com/mario-i-caicedo-ai/Introduccion-a-las-Ecuaciones-Diferenciales-Ordinarias/))
+
 [Repaso de Series Fourier](https://github.com/mario-i-caicedo-ai/Series-de-Fourier)
 
 [Semanas 1 y 2] Introducción a la Electrostática. Capítulo I del Texto del Curso.
