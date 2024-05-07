@@ -38,7 +38,7 @@ utiliza el libro de [J. D. Jackson](https://en.wikipedia.org/wiki/Classical_Elec
 
 ## Material de Estudio (Apuntes, clases y videos)
 
-[Repaso de Series Fourier](https://github.com/mario-i-caicedo-ai/Introduccion-a-las-Ecuaciones-Diferenciales-Ordinarias/))
+[Ecuaciones Diferenciales. Sistemas dinámicos, un repaso breve](https://github.com/mario-i-caicedo-ai/Introduccion-a-las-Ecuaciones-Diferenciales-Ordinarias/)
 
 [Repaso de Series Fourier](https://github.com/mario-i-caicedo-ai/Series-de-Fourier)
 
