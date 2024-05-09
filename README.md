@@ -25,7 +25,8 @@ utiliza el libro de [J. D. Jackson](https://en.wikipedia.org/wiki/Classical_Elec
 3. Julian Schwinger, Lester L. Deraad Jr., Kimball Milton, Wu-Yang Tsai. **Classical Electrodynamics**, 1999
 4. W. .H. Panonfsky, M. Phillips. **Classical Electricity and Magnetism**. 
 5. Julius Adams Stratton. **Electromagnetic Theory**.
-6. Emile Durand, [Electrostatique](https://archive.org/details/electrostatique0000dura_u0w3) 
+6. Emile Durand, [Electrostatique](https://archive.org/details/electrostatique0000dura_u0w3)
+7. V.V. Batygin I.N. Toptygin. **Problems in Electrodynamics**
 
 ## Bibliografía Auxiliar
 
@@ -48,7 +49,7 @@ utiliza el libro de [J. D. Jackson](https://en.wikipedia.org/wiki/Classical_Elec
 
 ## Tareas
 
-**Observaciones: 
+**Observaciones:** 
 
 * Las tareas deben entregarse hasta los viernes de la semana en que se propone la tara.
 * Trate de presentar su tarea en latex, preferiblemente en la aplicación [Overleaf](https://www.overleaf.com/) y la comparte comigo con permiso de edición
