@@ -11,7 +11,7 @@
 ## Descripción
 
 Este curso, de dos partes (dos trimestres) estudia los principio básicos de la teoría electromagnética. Como ocurre en muchas instituciones alrededor del mundo, el curso
-utiliza el libro de [J. D. Jackson](https://en.wikipedia.org/wiki/Classical_Electrodynamics_(book)) como texto principal lo cual obedece a un interés en , no solo la teoría electromagnética, sino en una necesidad de asegurar que todos los estudiantes graduados que comienzan eestudios, complementen sus conocimientos de base de los métodos clásicos de lafísica matemática.
+utiliza el libro de [J. D. Jackson](https://en.wikipedia.org/wiki/Classical_Electrodynamics_(book)) como texto principal lo cual obedece a un interés en , no solo la teoría electromagnética, sino en una necesidad de asegurar que todos los estudiantes graduados que comienzan estudios, complementen sus conocimientos de base de los métodos clásicos de la física matemática.
 
 **Notas:** 
 
@@ -34,8 +34,9 @@ utiliza el libro de [J. D. Jackson](https://en.wikipedia.org/wiki/Classical_Elec
 2. George B. Arfken, Hans J. Weber. **Mathematical Methods for Physicists** (sixth edition). Elsevier, 2005. ISBN: 0-12-059876-0
 3. Hans F. Weinberger. **A First Course in Partial Differential Equations with Complex Variables and Transform Methods**
 4. Ivar Stakgold, Michael Holst. **Green's Functions and Boundary Value Problems**
-5. Philip M. Morse, Herman Feshbach. **Methods of Theoretical Physics**. McGRAW-HILL BOOK COMPANY, 1953{
-6. R. Courant, D. Hilbert, **Methods of Mathematical Physics**. Wiley Classics Edition
+5. Laurent Schwartz. **Mathematics for the Physical Sciences** (Dover Books on Mathematics).
+6. Philip M. Morse, Herman Feshbach. **Methods of Theoretical Physics**. McGRAW-HILL BOOK COMPANY, 1953{
+7. R. Courant, D. Hilbert, **Methods of Mathematical Physics**. Wiley Classics Edition
 
 ## Material de Estudio (Apuntes, clases y videos)
 
