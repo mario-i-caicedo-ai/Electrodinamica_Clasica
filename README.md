@@ -46,6 +46,8 @@ utiliza el libro de [J. D. Jackson](https://en.wikipedia.org/wiki/Classical_Elec
 
 [Repaso de Series Fourier (cuaderno JUPYTER)](https://github.com/mario-i-caicedo-ai/Series-de-Fourier)
 
+[Solución de la Ecuación de Lapalce, un ejemplo (cuaderno JUPYTER)](cuadernos_jupyter/Ec_de_Laplace_1.ipynb)
+
 [Semanas 1 y 2] Introducción a la Electrostática. Capítulo I del Texto del Curso.
 
 ## Tareas
