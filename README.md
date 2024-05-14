@@ -40,7 +40,7 @@ utiliza el libro de [J. D. Jackson](https://en.wikipedia.org/wiki/Classical_Elec
 
 ## Material de Estudio (Apuntes, clases y videos)
 
-[Introducción a Python](https://github.com/mario-i-caicedo-ai/Python_Minicurso))
+[Introducción a Python](https://github.com/mario-i-caicedo-ai/Python_Minicurso)
 
 [Ecuaciones Diferenciales. Notas escritas por mi, hay errores, le agradezco me los señale para arreglarlos en ediciones posteriores](Apuntes/Notas_Acerca_de_Ecuaciones_Diferenciales.pdf)
 
