@@ -48,7 +48,7 @@ utiliza el libro de [J. D. Jackson](https://en.wikipedia.org/wiki/Classical_Elec
 
 [Repaso de Series Fourier (cuaderno JUPYTER)](https://github.com/mario-i-caicedo-ai/Series-de-Fourier)
 
-[Introducción a la Técnica de Separación de Variables Para Ecuaciones Diferenciales en Derivadas Parciales](PDE_Separacion_de_Variables_Intro.pdf)
+[Introducción a la Técnica de Separación de Variables Para Ecuaciones Diferenciales en Derivadas Parciales](Apuntes/PDE_Separacion_de_Variables_Intro.pdf)
 
 [Solución de la Ecuación de Laplace, un ejemplo (cuaderno JUPYTER)](cuadernos_jupyter/Ec_de_Laplace_1.ipynb)
 
