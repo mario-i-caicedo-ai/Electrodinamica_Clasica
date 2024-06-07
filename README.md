@@ -70,6 +70,12 @@ utiliza el libro de [J. D. Jackson](https://en.wikipedia.org/wiki/Classical_Elec
 
 [Semana 3. Tarea 2] Completar los Problemas del Capítulo I del texto.
 
+[Semana 4. Tarea 3] Resuelva los problemas: 2.1 a 2.11 y el prob 2.16 del texto.
+
+[Semana 5. Tarea 4] Resuelva los problemas: 3.1 a 3.7 del texto.
+
+[Semana 6. Tarea 5] Resuelva los problemas: 3.8 a 3.15 del texto..
+
 
 
 
